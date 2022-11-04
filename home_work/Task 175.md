@@ -10,7 +10,7 @@
 2. My sister `gets` up at eight o\`clock.
 3. She `is` a schoolgirls. She `goes` to school in the afternoon.
 4. Jane `is` fond of sports. She `does` her morning exercises every day.
-5. For breackfast she `hus` to eggs, a sandwich and a cup of tea.
+5. For breackfast she `haves` to eggs, a sandwich and a cup of tea.
 6. After breackfast she `goes` to school.
 7. It `takes` her two hours to her homework.
 8. She `speaks` French well.
