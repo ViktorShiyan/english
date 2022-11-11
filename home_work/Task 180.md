@@ -7,9 +7,9 @@
 <tr><td>He is sleeping now.</td><td>He sleeps every night.</td></tr>
 <tr><td>We are drinking tea now. </td><td>We drink tea every morning.</td></tr>
 <tr><td>They are going school now. </td><td>They go to school every morning.</td></tr>
-<tr><td>I am not sleeping now.</td><td>I don\`t sleep in the daytime.</td></tr>
+<tr><td>I am not sleeping now.</td><td>I don`t sleep in the daytime.</td></tr>
 <tr><td>She is not drinking coffee now.</td><td>She does not drink coffee after lunch.</td></tr>
-<tr><td>We are not watching TV now. </td><td>We don\`t watch TV in morning.</td></tr>
+<tr><td>We are not watching TV now. </td><td>We don`t watch TV in morning.</td></tr>
 <tr><td>They are not eating now. </td><td>They don`t eat at the lesson.</td></tr>
 <tr><td>My mother is not working now. </td><td>My mother does not work at an office.</td></tr>
 <tr><td>Are you working now? </td><td>Do you work every day?</td></tr>
