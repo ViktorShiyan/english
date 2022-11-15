@@ -22,7 +22,7 @@
 <tr><td>What is your brother drinking now? </td><td>What does your brother drink in the evening?</td></tr>
 <tr><td>Are everybody having a good time now? </td><td>Do everybody have a good time every Saturday?</td></tr>
 <tr><td>Is she taking medicine now? </td><td>How often does she take medicine?</td></tr>
-<tr><td>Where are they going now? </td><td>Where do they go Sunday?</td></tr>
+<tr><td>Where are they going now? </td><td>Where do they go on Sunday?</td></tr>
 <tr><td>Are they speaking English now? </td><td> What do they usually speak language?</td></tr>
 </table>
 
